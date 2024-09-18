@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nphw3listener", "nphw3listener.csproj", "{709B3D53-FBE2-4624-911E-8FFCC1D64F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709B3D53-FBE2-4624-911E-8FFCC1D64F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709B3D53-FBE2-4624-911E-8FFCC1D64F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709B3D53-FBE2-4624-911E-8FFCC1D64F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709B3D53-FBE2-4624-911E-8FFCC1D64F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B62587-D0F3-4ACA-8863-CCD411DCD9FB}
+	EndGlobalSection
+EndGlobal
